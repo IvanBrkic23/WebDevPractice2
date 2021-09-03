@@ -1,0 +1,10 @@
+{
+    "C_Cpp.default.enableConfigurationSquiggles": false,
+    "C_Cpp.errorSquiggles": "Disabled",
+    "eslint.codeAction.disableRuleComment": {
+        "enable": false
+    },
+    "eslint.codeAction.showDocumentation": {
+        "enable": false
+    }
+}
